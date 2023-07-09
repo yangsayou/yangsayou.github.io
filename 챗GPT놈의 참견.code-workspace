@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/챗GPT놈의 참견"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"editor.lineHighlightBackground": "#1073cf2d",
+			"editor.lineHighlightBorder": "#9fced11f"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "ysy 코딩용"
+	}
+}
