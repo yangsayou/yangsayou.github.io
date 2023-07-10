@@ -2,7 +2,7 @@ body {
   font-family: 'Pretendard', sans-serif;
   color: #ffffff;
   padding: 40px;
-  background: linear-gradient(45deg, #822F00, #30003C);
+  background: linear-gradient(45deg, #4371ff, #822F00, #30003C);
   overflow: auto; /* 스크롤 가능 */
   background-size: 100% 200%; /* 배경 확대 */
   background-position: top center; /* 배경 위치 중앙으로 설정 */
